@@ -4,13 +4,12 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Unofficial Economist
 tagline:          'Hannah Blackburn'
 description:      'Testing'
-url:              http://hannahblackburn.github.io/unofficialeconomist
+url:              http://hannahblackburn.github.io/test_from_hyde
 baseurl:          /
 
 author:
