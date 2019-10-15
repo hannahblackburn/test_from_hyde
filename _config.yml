@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Unofficial Economist
 tagline:          'Hannah Blackburn'
-description:      'Testing <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Testing'
 url:              http://hannahblackburn.github.io/unofficialeconomist
 baseurl:          /
 
